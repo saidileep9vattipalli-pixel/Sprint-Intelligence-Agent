@@ -43,6 +43,6 @@ to under 60 seconds with consistent, high-quality output.
 
 ## Impact
 
-- ~60% reduction in sprint reporting time
+- 60% reduction in sprint reporting time
 - Consistent, structured output across all sprints
 - Scalable to any Agile team
