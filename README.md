@@ -1,4 +1,4 @@
-# Sprint Intelligence Agent
+# AI-Driven Execution Analytics Agent
 
 An agentic AI workflow that automatically analyzes Agile sprint reports 
 and drafts professional stakeholder emails using multi-step AI orchestration.
